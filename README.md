@@ -1,2 +1,6 @@
-# michalZybura
-Few words about me 😊
+# 👋 Hi there! 
+
+## 🚀 About Me 
+
+
+
