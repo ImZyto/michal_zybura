@@ -15,5 +15,4 @@
 
 <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="michal-zybura" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/michal-zybura?trk=profile-badge">Michał Żybura</a></div>
   
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] 
-![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michal-zybura/)
