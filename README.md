@@ -12,7 +12,5 @@
 📖 I love reading books on **personal development**. My favoutites ones are **Keys to Positive Thinking** by *Napoleon Hill*. 
 
 ✈️ I love travelling as well, I have been traveling regularly since 2016, performing in theaters all over the world. My most common spectacle is [To da bone](https://youtu.be/s9leiul63ic). 
-
-<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="michal-zybura" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/michal-zybura?trk=profile-badge">Michał Żybura</a></div>
-  
+ 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michal-zybura/)
