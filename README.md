@@ -13,3 +13,4 @@
 
 ✈️ I love travelling as well, I have been traveling regularly since 2016, performing in theaters all over the world. My most common spectacle is [To da bone](https://youtu.be/s9leiul63ic). 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
