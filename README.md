@@ -13,4 +13,4 @@
 
 ✈️ I love travelling as well, I have been traveling regularly since 2016, performing in theaters all over the world. My most common spectacle is [To da bone](https://youtu.be/s9leiul63ic). 
  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michal-zybura/)
+![LinkedIn](https://www.linkedin.com/in/michal-zybura?style=for-the-badge&logo=linkedin&logoColor=white)
